@@ -1,3 +1,8 @@
+*This project has been archived due to the release of the graphical version of the game*
+
+---
+
+
 A simple colorscheme generator for Dwarf Fortress
 
 Available to play with at https://manmademagic.github.io/DFColorGen
