@@ -18,3 +18,10 @@ Features:
 
 It's using some basic regex to extract the colour values, then using javascript to live update the colours on the page.
 Should work in the latest Chrome/Firefox/Edge/IE, but I can't make any guarantees.
+
+
+## Quick Guide to Adding Colorschemes
+
+First you need to add your file to the Colorschemes folder. 
+
+Next you need to edit colorschemes.js so your file gets loaded in as one of the options. 
