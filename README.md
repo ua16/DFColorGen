@@ -1,4 +1,5 @@
-*This project has been archived due to the release of the graphical version of the game*
+*Original project was archived due to the release of the graphical version of the game*
+*This fork aims to continue to add colorschemes to the project for players who still use ASCII*
 
 ---
 
